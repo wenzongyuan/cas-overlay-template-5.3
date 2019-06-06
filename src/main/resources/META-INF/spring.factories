@@ -1,0 +1,2 @@
+#让springboot 加载自定义的配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.wzy.cas.myauth.config.MyAuthenticationConfig
